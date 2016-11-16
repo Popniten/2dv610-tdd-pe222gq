@@ -1,0 +1,31 @@
+{
+  "name": "2dv610-pe222gq-tdd-project",
+  "version": "0.0.1",
+  "description": "A TDD project in the LNU course 2DV610 - Software Testing.",
+  "author": "Pär Eriksson <pe222gq@student.lnu.se>",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "javascript",
+    "university project",
+    "hangman"
+  ],
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.1.2",
+    "nodemon": "^1.11.0",
+    "sinon": "^1.17.6"
+  },
+  "scripts": {
+      "test": "istanbul cover _mocha tests/*.test.js"
+  }
+}
