@@ -19,7 +19,7 @@ node main.js
 
 ## Frameworks and tools
 
-Mocha    - Unit testing
-Chai     - BDD/TDD assertion library
-Sinon    - Mocking framework
-Istanbul - Code coverage
+* Mocha - Unit testing
+* Chai - BDD/TDD assertion library
+* Sinon - Mocking framework
+* Istanbul - Code coverage
