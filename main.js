@@ -12,6 +12,10 @@ const gameTitle = [
     '                         "Y88P"'
 ]
 
+for (let i = 0; i < 100; i++) {
+    console.log()
+}
+
 for (let i = 0; i < gameTitle.length; i++) {
     console.log(gameTitle[i])
 }
