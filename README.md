@@ -16,3 +16,10 @@ npm test
 # Run the game in the console.
 node main.js
 ```
+
+## Frameworks and tools
+
+Mocha    - Unit testing
+Chai     - BDD/TDD assertion library
+Sinon    - Mocking framework
+Istanbul - Code coverage
