@@ -7,14 +7,14 @@ A console based game of Hangman, made in Node and Javascript. This is for a *Tes
 ## Instructions
 
 ```bash
-# First setup the project.
+# First setup the project and install dependencies.
 npm install
 
-# To run the test suite
+# To run the test suite.
 npm test
 
 # Run the game in the console.
-node main.js
+npm start
 ```
 
 ## Frameworks and tools

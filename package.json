@@ -26,6 +26,7 @@
     "sinon": "^1.17.6"
   },
   "scripts": {
-      "test": "istanbul cover _mocha tests/*.test.js"
+      "test": "istanbul cover _mocha tests/*.test.js",
+      "start": "node main.js"
   }
 }
